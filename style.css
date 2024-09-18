@@ -52,7 +52,7 @@
     .logo {
       width: 150px;
       height: 60px;
-      background-image: url("/image/sabroso-logo.png");
+      background-image: url("./image/sabroso-logo.png");
       background-size: cover;
       background-position: center; 
     }
